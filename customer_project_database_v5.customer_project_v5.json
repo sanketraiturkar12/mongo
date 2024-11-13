@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6734751ec28ba8b1e0918694"
+  },
+  "customerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+  "projectCodes": [
+    163001203,
+    163004003,
+    163001216,
+    163001200,
+    163001215,
+    163001174,
+    163001198,
+    163001169
+  ]
+},
+{
+  "_id": {
+    "$oid": "6734751ec28ba8b1e0918696"
+  },
+  "customerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+  "projectCodes": [
+    135301069,
+    135301080,
+    135301356,
+    135301372,
+    135301351,
+    135301348,
+    135301290,
+    135301345,
+    135301340,
+    135301336
+  ]
+}]
