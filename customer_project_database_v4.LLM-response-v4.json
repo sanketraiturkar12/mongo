@@ -1,0 +1,660 @@
+[{
+  "_id": {
+    "$oid": "67344a1bde1e3e3c4fd1cf13"
+  },
+  "llm_response": {
+    "Client Name": "EBRD\\n",
+    "Project Name": "EBRD INFRASTRUCTURE SERVICES\\n\\n-",
+    "Overall Sentiment": "Negative",
+    "Root Cause Analysis": "The core issues identified include recurring defaults committed by Zensar, indicating a failure to meet obligations under the agreement, which led to formal notices being issued.\\n- What Went Wrong: The main problems involved missed obligations and the need for immediate corrections, suggesting lapses in project management and compliance with the agreed terms.\\n-",
+    "Resolution Review": "While the service improvement plan (SIP) was implemented and closed, there may be concerns regarding the sustainability of these improvements and whether they adequately address the underlying issues.\\n-",
+    "Expert Recommendations": "To prevent future escalations, it is recommended to enhance compliance monitoring processes and establish clearer accountability measures within the project team to ensure obligations are met consistently. Regular reviews and proactive engagement with the client in renewal discussions can also strengthen relationships and mitigate risks. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 195, prompt_tokens: 1124, total_tokens: 1319, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-1405f14c-f03b-4e49-9bcd-097c6029caec-0 usage_metadata={input_tokens: 1124, output_tokens: 195, total_tokens: 1319}"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001203,
+    "filetype": "Escalations",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344a61de1e3e3c4fd1cf14"
+  },
+  "llm_response": {
+    "Project": "AES_EBRD_ADOBE_IMPLEMENTATION AND SUPPORT \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project has an Amber RAG status, indicating critical risk levels, primarily related to project management and costs impacted by client dependencies. The detailed risk descriptions highlight significant delays, additional costs, and potential impacts on project margins, reinforcing a negative sentiment regarding the project\\'s outlook.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 77, 'prompt_tokens': 1234, 'total_tokens': 1311, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-3e7a923a-fb7a-4236-b044-0b62575bfedb-0' usage_metadata={'input_tokens': 1234, 'output_tokens': 77, 'total_tokens': 1311}"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163004003,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344a95de1e3e3c4fd1cf15"
+  },
+  "llm_response": {
+    "Project Code": "163001216",
+    "Average Parameter Scores": {
+      "Effectiveness of communication": 4,
+      "Satisfaction level with Customer Complaint management": 5,
+      "Resource Management": 5,
+      "Technical Competency": 5,
+      "Quality": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a strong positive sentiment, highlighting phrases such as \\continue to deliver like you do\\ and praising Anitha as \\diligent\\ and \\expert in her subject matter.\\ The parameter scores are consistently high, indicating satisfaction across key areas.",
+    "Areas of Concern": "While the overall sentiment is positive, maintaining this level of satisfaction is crucial. Any decline in communication effectiveness or resource management could lead to negative feedback.",
+    "Suggestions": "To ensure continued satisfaction, regularly solicit feedback for improvement areas, recognize and reward high performance among team members, and maintain transparent communication with stakeholders.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 216, prompt_tokens: 1375, total_tokens: 1591, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-35d7a6d0-f3cd-4c3a-87c2-0fa4bc17dd64-0 usage_metadata={input_tokens: 1375, output_tokens: 216, total_tokens: 1591"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001216,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ad1de1e3e3c4fd1cf16"
+  },
+  "llm_response": {
+    "Project Code": "163001200",
+    "Average Parameter Scores": {
+      "Effectiveness of communication": 4,
+      "Technical Competency": 5,
+      "Quality": 4,
+      "Satisfaction level with Customer Complaint management": 5,
+      "Resource Management": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect satisfaction with communication, technical competency, and complaint management, using phrases like \\prompt on his actions\\ and \\great planner\\. Negative comments highlight a need for focus in discussions, which is less impactful overall.",
+    "Areas of Concern": "Attention to detail in work assignments and focus during discussions needs improvement, as highlighted by comments about Sachin Nakade.",
+    "Suggestions": "Encourage team members to stay focused on their tasks and provide training sessions to clarify project requirements and expectations to mitigate confusion.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 199, prompt_tokens: 1639, total_tokens: 1838, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-4f56760a-723e-40fd-b263-f7926d7fb8d9-0 usage_metadata={input_tokens: 1639, output_tokens: 199, total_tokens: 1838"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001200,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344b0fde1e3e3c4fd1cf17"
+  },
+  "llm_response": {
+    "Project Code": "163001215",
+    "Average Parameter Scores": {
+      "Effectiveness of communication": 4,
+      "Satisfaction level with Customer Complaint management": 4,
+      "Technical Competency": 4,
+      "Quality": 4,
+      "Resource Management": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a strong appreciation for the effectiveness of communication, technical competency, and quality, with phrases indicating satisfaction and reliability. The majority of scores are above 4, illustrating a positive sentiment across the board.",
+    "Areas of Concern": "While the scores are generally high, any negative comments related to resource management or customer complaint management indicate areas where improvements may be needed.",
+    "Suggestions": "Increase focus on resource management processes and enhance strategies for handling customer complaints to ensure even higher satisfaction levels.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 196, prompt_tokens: 2215, total_tokens: 2411, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-2bdb4ebb-1cb8-43f8-af78-c8272ea66084-0 usage_metadata={input_tokens: 2215, output_tokens: 196, total_tokens: 2411"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001215,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344b4dde1e3e3c4fd1cf18"
+  },
+  "llm_response": {
+    "Project Code": "163001174",
+    "Average Parameter Scores": {
+      "Satisfaction level with Customer Complaint management": 5,
+      "Effectiveness of communication": 4,
+      "Resource Management": 5,
+      "Technical Competency": 4,
+      "Quality": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect satisfaction with complaint management and resource management, with phrases like \\provided earlier with Sachin\\s feedback\\ indicating strong approval. The effectiveness of communication, technical competency, and quality are also positively highlighted, predominantly scoring above 4.",
+    "Areas of Concern": "While the overall sentiment is positive, continuous feedback on the complaint management process can be crucial to ensure sustained satisfaction.",
+    "Suggestions": "Encourage regular feedback from clients to maintain high satisfaction levels, particularly around complaint handling. Consider implementing follow-ups and proactive communication strategies to enhance the effectiveness of interactions.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 210, prompt_tokens: 1651, total_tokens: 1861, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-cc352805-651c-44d3-9848-8ccda441dd6e-0 usage_metadata={input_tokens: 1651, output_tokens: 210, total_tokens: 1861"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001174,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344b90de1e3e3c4fd1cf19"
+  },
+  "llm_response": {
+    "Project Code": "163001198",
+    "Average Parameter Scores": {
+      "Satisfaction level with Customer Complaint management": 4,
+      "Effectiveness of communication": 4,
+      "Resource Management": 4,
+      "Technical Competency": 4,
+      "Quality": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a consistently high satisfaction level with various aspects of project management, particularly highlighting effective communication, resource management, and technical competency. Key phrases such as \\Provided earlier with Sachin\\s feedback\\ indicate positive engagement and satisfaction.",
+    "Areas of Concern": "While the scores are uniformly high, a lack of diverse feedback or constructive criticism may indicate areas where improvement is not being addressed or acknowledged.",
+    "Suggestions": "Encourage more detailed feedback from stakeholders to uncover specific areas for improvement and continue maintaining high standards in communication and resource management.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 205, prompt_tokens: 1359, total_tokens: 1564, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-ba264719-5672-4eba-92f3-34799964131e-0 usage_metadata={input_tokens: 1359, output_tokens: 205, total_tokens: 1564"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001198,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344bcfde1e3e3c4fd1cf1a"
+  },
+  "llm_response": {
+    "Project Code": "163001169",
+    "Average Parameter Scores": {
+      "Satisfaction level with Customer Complaint management": 5,
+      "Regularity of progress reporting": 5,
+      "Satisfaction level with the quality of the deliverables": 5,
+      "Resource Management": 5,
+      "Effectiveness of communication": 5,
+      "adherence to SLAs": 5,
+      "Technical Competency": 5,
+      "Quality": 5,
+      "Risk management": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a strong satisfaction with Zensar\\s management, communication effectiveness, and quality of deliverables. Key phrases include \\well managed\\, \\excellent\\, and \\well listened\\, indicating a highly positive sentiment overall.",
+    "Areas of Concern": "The comment regarding risk management indicates a need for improvement as risks are not well articulated by the project manager.",
+    "Suggestions": "To enhance overall satisfaction, it is recommended to improve communication around risk management, ensuring that risks are clearly articulated and addressed to foster greater confidence among stakeholders.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 268, prompt_tokens: 2467, total_tokens: 2735, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-6de5f93f-92e4-41da-908d-2d964dcb9969-0 usage_metadata={input_tokens: 2467, output_tokens: 268, total_tokens: 2735"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001169,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344bebde1e3e3c4fd1cf1b"
+  },
+  "llm_response": {
+    "What Went Wrong": "The main issues involved defaults committed by Zensar, which necessitated a formal notice under the agreement. Recurring problems were identified that led to a need for immediate reporting and correction., Root Cause Analysis: The core issues stemmed from missed obligations under the agreement, indicating potential gaps in adherence to contractual commitments. Patterns suggest a lack of consistent monitoring and compliance checks., Rectification Measures: A Service Improvement Plan (SIP) was developed and shared with the client to address the identified actions. The measures taken seem to have been effective, as indicated by the implementation and closure of the SIP., Client Satisfaction: The client\\s response to the resolution actions has not been explicitly documented, but the implementation of the SIP suggests a proactive approach to client engagement., Major Challenges: The major challenges faced included ensuring compliance with contract obligations and timely addressing of defaults. The recurring nature of the issues highlights a systemic challenge., Communication Issues: While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Root Cause Analysis": "The core issues stemmed from missed obligations under the agreement, indicating potential gaps in adherence to contractual commitments. Patterns suggest a lack of consistent monitoring and compliance checks., Rectification Measures: A Service Improvement Plan (SIP) was developed and shared with the client to address the identified actions. The measures taken seem to have been effective, as indicated by the implementation and closure of the SIP., Client Satisfaction: The client\\s response to the resolution actions has not been explicitly documented, but the implementation of the SIP suggests a proactive approach to client engagement., Major Challenges: The major challenges faced included ensuring compliance with contract obligations and timely addressing of defaults. The recurring nature of the issues highlights a systemic challenge., Communication Issues: While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Rectification Measures": "A Service Improvement Plan (SIP) was developed and shared with the client to address the identified actions. The measures taken seem to have been effective, as indicated by the implementation and closure of the SIP., Client Satisfaction: The client\\s response to the resolution actions has not been explicitly documented, but the implementation of the SIP suggests a proactive approach to client engagement., Major Challenges: The major challenges faced included ensuring compliance with contract obligations and timely addressing of defaults. The recurring nature of the issues highlights a systemic challenge., Communication Issues: While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Client Satisfaction": "The client\\s response to the resolution actions has not been explicitly documented, but the implementation of the SIP suggests a proactive approach to client engagement., Major Challenges: The major challenges faced included ensuring compliance with contract obligations and timely addressing of defaults. The recurring nature of the issues highlights a systemic challenge., Communication Issues: While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Major Challenges": "The major challenges faced included ensuring compliance with contract obligations and timely addressing of defaults. The recurring nature of the issues highlights a systemic challenge., Communication Issues: While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Communication Issues": "While specific communication issues were not highlighted, the necessity for a SIP indicates that communication regarding obligations may have been insufficient. Improved clarity in expectations could prevent future escalations., Technical Issues: No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Technical Issues": "No specific technical issues were reported that directly caused the escalation. However, ongoing monitoring and updates to technical processes may enhance compliance.",
+    "Delays": "The analysis does not indicate specific delays that contributed to the escalation, but the urgency of addressing defaults suggests there may have been time-sensitive elements involved. }, Expert Recommendations: { Preventive Measures: [ Implement regular compliance audits to ensure obligations under the contract are being met consistently., Enhance communication protocols to clarify expectations and responsibilities between Zensar and clients., Establish a more rigorous monitoring system to catch potential defaults before they escalate into formal notices. ], Process Improvements: [ Develop a structured escalation process that includes predefined steps for addressing defaults and communicating with clients., Increase the frequency of project review meetings to discuss performance metrics and potential issues proactively. ], Technical Upgrades: [ Invest in project management tools that provide real-time tracking of obligations and deadlines., Utilize automated compliance tracking systems to flag potential issues early. ], Overall Sentiment Evaluation: The overall sentiment for the client appears to be cautious but constructive, as they are likely to appreciate the efforts taken to rectify the issues. However, the repeated need for escalations may lead to lingering concerns regarding reliability. }, Final Sentiment: [Negative]} additional_kwargs={} response_metadata={token_usage: {completion_tokens: 534",
+    "Expert Recommendations": "Preventive Measures: [ Implement regular compliance audits to ensure obligations under the contract are being met consistently., Enhance communication protocols to clarify expectations and responsibilities between Zensar and clients., Establish a more rigorous monitoring system to catch potential defaults before they escalate into formal notices. ], Process Improvements: [ Develop a structured escalation process that includes predefined steps for addressing defaults and communicating with clients., Increase the frequency of project review meetings to discuss performance metrics and potential issues proactively. ], Technical Upgrades: [ Invest in project management tools that provide real-time tracking of obligations and deadlines., Utilize automated compliance tracking systems to flag potential issues early. ], Overall Sentiment Evaluation: The overall sentiment for the client appears to be cautious but constructive, as they are likely to appreciate the efforts taken to rectify the issues. However, the repeated need for escalations may lead to lingering concerns regarding reliability.",
+    "Overall Sentiment": "Overall Sentiment section not available",
+    "Final Sentiment": "Final Sentiment not available"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001169,
+    "filetype": "Escalations",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344bf5de1e3e3c4fd1cf1c"
+  },
+  "llm_response": {
+    "Aggregated Overall Client Sentiment": "- Positive2.",
+    "Key Sentiment and Data Trends": "- Project Code: 163001216: - Strong positive feedback with scores of 4-5 in key areas such as communication, technical competency, and resource management. The client appreciates the diligent performance and expertise of team members.  - Project Code: 163001200: - Generally positive sentiment with scores of 4-5. Notable strengths include effective communication and satisfaction with complaint management. Some concerns were raised about focus and workload management by team members. - Project Code: 163001215: - Positive sentiment overall, with consistent scores of 4-5 across communication effectiveness, technical competency, and quality. Feedback indicates reliability in service delivery, although there are areas for improvement in complaint management. - Project Code: 163001174: - Positive sentiment with high satisfaction scores in complaint management and resource management. Communication effectiveness is rated slightly lower, indicating a need for improvement in that area. - Project Code: 163001198: - Neutral to positive sentiment, with good scores (mostly 4s) in complaint management, communication, and resource management. More consistent performance is needed to elevate overall satisfaction. - Project Code: 163001169: - Excellent sentiment with high scores (mostly 5s) in communication, quality, and resource management. The client appreciates the responsiveness and effective oversight from the senior management.4.",
+    "Expert Advice": "- Maintain High Standards: The organization should continue to leverage the strengths identified in the feedback, particularly in technical competency and communication. - Address Focus Issues: Attention should be given to the feedback regarding focus and workload management, particularly in Project Code 163001200. Training or adjustments in project management may be beneficial. - Enhance Communication: While communication is generally effective, there are opportunities for improvement, especially in Project Code 163001174. Regular check-ins and clearer expectations can help. - Monitor Consistency: For Project Code 163001198, a focus on consistent performance across all parameters will help solidify positive sentiment and enhance overall client satisfaction. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 501, prompt_tokens: 6597, total_tokens: 7098, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-ec1a727a-e2f5-4210-ae0a-0f73d7835a2a-0 usage_metadata={input_tokens: 6597, output_tokens: 501, total_tokens: 7098}"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001169,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344bfede1e3e3c4fd1cf1d"
+  },
+  "llm_response": {
+    "Overall Sentiment": "Positive",
+    "Categorized Sentiments": "- Positive:  - Response ID: 2109189: The account manager is patient and highly organised. Excellent communication and cooperation. - Response ID: 2109090: Good customer engagement and value for money. Leadership engagement is noteworthy. - Response ID: 2109364: Excellent partnership and communication. High satisfaction levels noted. - Response ID: 2109089: Strong people culture and genuine care for joint success.- Neutral:  - Response ID: 2109072: Experience is satisfactory but areas for improvement noted, especially in efficiency. - Response ID: 2109071: Mixed feelings about ownership and accountability; kindness and care are highlighted. - Response ID: 2109073: Local family-friendly feel but room for improvement in governance and engagement.- Negative:  - Response ID: 2109365: Concerns regarding innovation and improvement in processes.",
+    "Explanation": "The overall sentiment is positive, with a majority of respondents expressing high satisfaction with Zensar’s responsiveness, quality of service, and communication. While several respondents identified areas for improvement, particularly in technical efficiency and innovation, the positive feedback outweighs the negative. Key strengths include strong relationships, effective governance, and a supportive culture.",
+    "Expert Advice": "To enhance customer satisfaction, Zensar should focus on promoting their offerings more effectively and address the identified areas for improvement, such as innovation and technical competency. Implementing structured feedback mechanisms to gather continuous input from clients could help in refining services and addressing concerns proactively. Additionally, enhancing training for technical resources and ensuring consistent engagement practices may strengthen overall service delivery. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 346, prompt_tokens: 22458, total_tokens: 22804, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-cb060069-e165-43f5-abb5-3ade73f55313-0 usage_metadata={input_tokens: 22458, output_tokens: 346, total_tokens: 22804}"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": "",
+    "filetype": "CSAT",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344c08de1e3e3c4fd1cf1e"
+  },
+  "llm_response": {
+    "Overall Account Sentiment": "Neutral\\n\\n",
+    "Explanation": "The project sentiment analysis reveals that all assessments for the project AES_EBRD_ADOBE_IMPLEMENTATION AND SUPPORT are classified as Amber, indicating a moderate level of risk and concern. The recurring themes of project management issues and client dependency management suggest systemic challenges that are impacting project performance and could hinder overall satisfaction.\\n\\nExpert Recommendations: To address the identified risks, it is crucial to implement a robust project management framework that includes regular monitoring of project metrics. Additionally, enhancing communication with the client to clarify expectations and expedite decision-making on change requests could help mitigate delays and improve project margins. Consider allocating resources for more frequent code reviews to avoid bottlenecks and ensure timely progress. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 146, prompt_tokens: 1273, total_tokens: 1419, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-d13dab5f-0988-4d53-bec7-562d6b3487b2-0 usage_metadata={input_tokens: 1273, output_tokens: 146, total_tokens: 1419}",
+    "Expert Recommendations": "To address the identified risks, it is crucial to implement a robust project management framework that includes regular monitoring of project metrics. Additionally, enhancing communication with the client to clarify expectations and expedite decision-making on change requests could help mitigate delays and improve project margins. Consider allocating resources for more frequent code reviews to avoid bottlenecks and ensure timely progress. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 146, prompt_tokens: 1273, total_tokens: 1419, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-d13dab5f-0988-4d53-bec7-562d6b3487b2-0 usage_metadata={input_tokens: 1273, output_tokens: 146, total_tokens: 1419}"
+  },
+  "metadata": {
+    "CustomerName": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+    "ProjectCode": 163001169,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344c50de1e3e3c4fd1cf1f"
+  },
+  "llm_response": {
+    "Client Name": "Kershnee \\n",
+    "Project Name": "DATAWARE HOUSE (DWH) - SERVICE TRACK SCHEDULE 05 \\n\\n-",
+    "Overall Sentiment": "Negative",
+    "Root Cause Analysis": "Multiple issues contributed to the Monthly schedule delays, including missing code strings from source files, changes in job scheduling, and duplicate executions. \\n - Example: Nine code strings were missing from the monthly source file, which delayed the DWH CDW monthly schedule. \\n-",
+    "Resolution Review": "While the immediate verification of data was performed before the monthly load, the root causes of the delays were not fully addressed, raising concerns about potential future occurrences. \\n - Example: No long-term fixes were implemented to prevent similar issues from arising in the future. \\n-",
+    "Expert Recommendations": "Implement a comprehensive review process for source file integrity and establish robust monitoring protocols to quickly identify and rectify scheduling issues. \\n - Example: Enhance data validation processes and ensure regular communication with the Analytics team to mitigate pressure on the Data Business Team.  additional_kwargs={} response_metadata={token_usage: {completion_tokens: 214, prompt_tokens: 1266, total_tokens: 1480, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-084b779c-d206-454f-9aed-4f35570e8a35-0 usage_metadata={input_tokens: 1266, output_tokens: 214, total_tokens: 1480}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301069,
+    "filetype": "Escalations",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344c64de1e3e3c4fd1cf20"
+  },
+  "llm_response": {
+    "Project": "Data Warehouse (DWH) - Service Track Schedule 05 \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project is rated Yellow, indicating critical issues related to project management and governance. The identified conflict of interest in roles suggests potential impacts on project execution, which contributes to a negative sentiment.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 62, 'prompt_tokens': 688, 'total_tokens': 750, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-90d98213-5a7d-4b1d-af5c-54f55c2d92b5-0' usage_metadata={'input_tokens': 688, 'output_tokens': 62, 'total_tokens': 750}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301069,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ca0de1e3e3c4fd1cf21"
+  },
+  "llm_response": {
+    "Project": "\"VANTAGE STEADY STATE\" \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project has a Yellow RAG status indicating potential risks related to time and quality, particularly due to dependency on OM SMEs. The risk description highlights concerns regarding project timelines and deliverable quality, which suggests significant challenges and uncertainties, leading to a negative sentiment.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 73, 'prompt_tokens': 822, 'total_tokens': 895, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-033b3620-2727-4613-a61d-9547262cc467-0' usage_metadata={'input_tokens': 822, 'output_tokens': 73, 'total_tokens': 895}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301080,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344cd7de1e3e3c4fd1cf22"
+  },
+  "llm_response": {
+    "Project Code": "135301356",
+    "Average Parameter Scores": {
+      "Satisfaction level with Customer Complaint management": 5,
+      "Responsiveness towards Customer inputs": 5,
+      "Satisfaction level with the quality of the deliverables": 5,
+      "Effectiveness of communication": 5,
+      "adherence to SLAs": 5,
+      "Risk management": 5,
+      "functional competence": 5,
+      "Regularity of progress reporting": 4,
+      "Resource Management": 5,
+      "operational Improvement suggestions by project team": 5,
+      "Project planning": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a high level of satisfaction, with phrases like \\always present\\, \\really do listen\\, and \\wonderful experience\\ indicating positive sentiments. The parameter scores are consistently high, reinforcing the positive feedback.",
+    "Areas of Concern": "While the overall sentiment is positive, there is a mention of Varsha needing assistance, which could indicate a potential workload issue that may affect future performance.",
+    "Suggestions": "To enhance overall satisfaction, it is recommended to provide Varsha with additional support to manage her workload effectively. Furthermore, maintaining open communication to address any emerging concerns will ensure continued high satisfaction levels.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 342, prompt_tokens: 2497, total_tokens: 2839, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-151e77c7-e6c0-495b-a559-b835a4f2cde4-0 usage_metadata={input_tokens: 2497, output_tokens: 342, total_tokens: 2839"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301356,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ceade1e3e3c4fd1cf23"
+  },
+  "llm_response": {
+    "Project": "OM - MYSERIES RTB RENEWAL 2024-25 \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project has a Yellow RAG status indicating potential risks, specifically related to client dependency management and the inability to monitor SLA due to missing details in the ServiceNow tool. Although some issues have been addressed, the pending sample testing and unresolved details contribute to a negative outlook.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 84, 'prompt_tokens': 818, 'total_tokens': 902, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-33fbe479-3c27-40ec-bebc-8f763a305eff-0' usage_metadata={'input_tokens': 818, 'output_tokens': 84, 'total_tokens': 902}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301356,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344d26de1e3e3c4fd1cf24"
+  },
+  "llm_response": {
+    "Project": "OM-CLOSED BOOK \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project has a Yellow RAG status, indicating a high-risk issue related to client dependency management. The dependency on subject matter experts for critical clarifications poses a risk, and if the planned knowledge sessions are not completed, it could negatively impact ticket resolution.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 68, 'prompt_tokens': 762, 'total_tokens': 830, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-555af1c7-9ff0-4997-94f2-66531c8060f9-0' usage_metadata={'input_tokens': 762, 'output_tokens': 68, 'total_tokens': 830}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301372,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344d5dde1e3e3c4fd1cf25"
+  },
+  "llm_response": {
+    "Project Code": "135301351",
+    "Average Parameter Scores": {
+      "Project planning": 5,
+      "Regularity of progress reporting": 4,
+      "Effectiveness of communication": 5,
+      "functional competence": 5,
+      "Responsiveness towards Customer inputs": 5,
+      "Resource Management": 5,
+      "operational Improvement suggestions by project team": 4,
+      "Risk management": 4,
+      "Satisfaction level with the quality of the deliverables": 4,
+      "adherence to SLAs": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect overwhelming satisfaction with project management, effectiveness of communication, and timely delivery. Key phrases include \\very happy\\, o issues\\, and \\commendable\\, indicating strong approval of the team\\s performance.",
+    "Areas of Concern": "While the majority of sentiments are positive, there is a slight concern regarding risk management and proactiveness in suggesting improvements, as these parameters received lower scores compared to others.",
+    "Suggestions": "To enhance overall satisfaction, it is recommended to focus on strengthening risk management strategies and actively solicit feedback for operational improvements. Regular workshops could be implemented to foster proactive suggestions from the project team.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 328, prompt_tokens: 2403, total_tokens: 2731, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-555e2910-cb89-4c8f-be60-fe79eb2ac4b8-0 usage_metadata={input_tokens: 2403, output_tokens: 328, total_tokens: 2731"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301351,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344d70de1e3e3c4fd1cf26"
+  },
+  "llm_response": {
+    "Project": "OM - MMP RTB EXTENSION 2024 \\n",
+    "Project Sentiment": "Negative \\n",
+    "Explanation": "The project has a Yellow RAG status, indicating a moderate risk level due to issues related to client dependency management. The lack of available SLA details hindered the project\\'s ability to monitor timelines effectively, which could potentially impact project delivery and client satisfaction.' additional_kwargs={} response_metadata={'token_usage': {'completion_tokens': 73, 'prompt_tokens': 806, 'total_tokens': 879, 'completion_tokens_details': None}, 'model_name': 'gpt-4o-mini', 'system_fingerprint': 'fp_d54531d9eb', 'prompt_filter_results': [{'prompt_index': 0, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}}], 'finish_reason': 'stop', 'logprobs': None, 'content_filter_results': {'hate': {'filtered': False, 'severity': 'safe'}, 'protected_material_code': {'filtered': False, 'detected': False}, 'protected_material_text': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': False, 'severity': 'safe'}}} id='run-e7950f44-bd07-4e16-b82b-e81df2597916-0' usage_metadata={'input_tokens': 806, 'output_tokens': 73, 'total_tokens': 879}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301351,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344da5de1e3e3c4fd1cf27"
+  },
+  "llm_response": {
+    "Project Code": "135301348",
+    "Average Parameter Scores": {
+      "Regularity of progress reporting": 5,
+      "Responsiveness towards Customer inputs": 5,
+      "functional competence": 5,
+      "Satisfaction level with Customer Complaint management": 5,
+      "Satisfaction level with the quality of the deliverables": 5,
+      "Effectiveness of communication": 5,
+      "Project planning": 5,
+      "Risk management": 5,
+      "adherence to SLAs": 5,
+      "Resource Management": 5,
+      "operational Improvement suggestions by project team": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments consistently highlight excellent performance, with phrases like \\brilliant!!!!\\, \\excellent\\, and positive acknowledgments of leadership and support. The parameter scores are all 5, indicating strong approval across all categories.",
+    "Areas of Concern": "There are no significant areas of concern as all feedback and scores are positive. However, continual monitoring of performance to maintain high standards is advisable.",
+    "Suggestions": "Maintain the high level of service demonstrated. Collect regular feedback to ensure ongoing improvement and address any potential future concerns proactively.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 300, prompt_tokens: 2135, total_tokens: 2435, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-d4905a3c-7919-4178-ad5a-be9d01a39a72-0 usage_metadata={input_tokens: 2135, output_tokens: 300, total_tokens: 2435"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301348,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344df9de1e3e3c4fd1cf28"
+  },
+  "llm_response": {
+    "Project Code": "135301290",
+    "Average Parameter Scores": {
+      "Project planning": 4,
+      "Regularity of progress reporting": 5,
+      "Effectiveness of communication": 4,
+      "Responsiveness towards Customer inputs": 4,
+      "Satisfaction level with Customer Complaint management": 5,
+      "adherence to SLAs": 4,
+      "Risk management": 4,
+      "functional competence": 4,
+      "Resource Management": 4,
+      "Satisfaction level with the quality of the deliverables": 4,
+      "operational Improvement suggestions by project team": 4
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a strong appreciation for improvements and effective communication. Key phrases include \\significant improvements\\, \\appreciate the effort\\, and \\asset to the team\\. Overall, there is a consistent recognition of the team\\s work and positive sentiment towards project management.",
+    "Areas of Concern": "The suggestions for faster movement on specific deliverables indicate a desire for quicker progress, particularly regarding the DHA feed changes.",
+    "Suggestions": "To enhance overall satisfaction, focus on increasing the speed of deliverables, ensuring timely updates, and providing adequate training for new team members to maintain continuity.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 336, prompt_tokens: 2161, total_tokens: 2497, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-4933bf9c-5d62-46d8-aea9-c1296ccd8f09-0 usage_metadata={input_tokens: 2161, output_tokens: 336, total_tokens: 2497"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301290,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344e36de1e3e3c4fd1cf29"
+  },
+  "llm_response": {
+    "Project Code": "135301345",
+    "Average Parameter Scores": {
+      "Effectiveness of communication": 5,
+      "Quality": 5,
+      "Technical Competency": 5,
+      "Resource Management": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments consistently reflect a high level of satisfaction, with phrases indicating strong effectiveness in communication, quality, technical competency, and resource management. The sentiment is positive due to the repeated high scores.",
+    "Areas of Concern": "No significant areas of concern were identified as all parameters received high scores.",
+    "Suggestions": "Maintain the current standards of service and continue to engage with customers to ensure ongoing satisfaction.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 162, prompt_tokens: 1937, total_tokens: 2099, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-eb421dcf-ecfa-4721-a5d2-00baba2600c2-0 usage_metadata={input_tokens: 1937, output_tokens: 162, total_tokens: 2099"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301345,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344e72de1e3e3c4fd1cf2a"
+  },
+  "llm_response": {
+    "Project Code": "135301340",
+    "Average Parameter Scores": {
+      "Regularity of progress reporting": 5,
+      "Satisfaction level with the quality of the deliverables": 5,
+      "Effectiveness of communication": 5,
+      "Responsiveness towards Customer inputs": 5,
+      "Satisfaction level with Customer Complaint management": 5,
+      "Project planning": 5,
+      "adherence to SLAs": 5,
+      "Risk management": 5,
+      "functional competence": 5,
+      "Resource Management": 5,
+      "operational Improvement suggestions by project team": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect high appreciation for the support and delivery from the teams, mentioning \\positive outcomes\\ and \\meeting business commitments.\\ Every parameter has a score of 5, indicating strong satisfaction.",
+    "Areas of Concern": "No significant areas of concern identified; however, maintaining high performance across all parameters is essential.",
+    "Suggestions": "Continue fostering strong communication and support systems. Regular feedback loops with the teams can help ensure sustained satisfaction and address any emerging concerns promptly.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 290, prompt_tokens: 1909, total_tokens: 2199, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-ce3519dd-5688-4271-a0fd-bcb66eff7d10-0 usage_metadata={input_tokens: 1909, output_tokens: 290, total_tokens: 2199"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301340,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344eb1de1e3e3c4fd1cf2b"
+  },
+  "llm_response": {
+    "Project Code": "135301336",
+    "Average Parameter Scores": {
+      "Regularity of progress reporting": 5,
+      "Resource Management": 5,
+      "Satisfaction level with the quality of the deliverables": 5,
+      "Effectiveness of communication": 5,
+      "Responsiveness towards Customer inputs": 5,
+      "Satisfaction level with Customer Complaint management": 5,
+      "adherence to SLAs": 4,
+      "Risk management": 5,
+      "functional competence": 5,
+      "Project planning": 4,
+      "operational Improvement suggestions by project team": 5
+    },
+    "Overall Sentiment": "Positive",
+    "Explanation": "The comments reflect a strong satisfaction with the project\\s progress, resource management, quality of deliverables, and communication. Phrases like \\very satisfied\\ and mentions of effective resource management indicate a generally positive sentiment.",
+    "Areas of Concern": "While the overall sentiment is positive, the comments regarding project planning highlight potential issues with red tape and management concerns, which could impact future deliveries.",
+    "Suggestions": "To enhance overall satisfaction, it is recommended to streamline project planning processes, reduce bureaucratic hurdles, and ensure commitments are realistic to avoid future dissatisfaction.}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 329, prompt_tokens: 2007, total_tokens: 2336, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-69494909-6798-46d0-8be6-1aec839ab4a4-0 usage_metadata={input_tokens: 2007, output_tokens: 329, total_tokens: 2336"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301336,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_SINGLEPORJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ecade1e3e3c4fd1cf2c"
+  },
+  "llm_response": {
+    "What Went Wrong": "The main problems identified include a monthly data load delay in the DWH track, caused by missing code strings, changes in job schedules, and duplicate executions leading to overall inefficiency. The client, Kershnee, has expressed that these delays create pressure on the Data Business Team, and similar issues have been reported in the past., Root Cause Analysis: The core issues contributing to the escalation include the absence of 9 code strings in the monthly source file, changes in the UT NAM Job schedule, and the execution of the ADS Copy process multiple times, resulting in duplicates. The recurring nature of these problems indicates a lack of thorough checks and balance in the scheduling and execution processes., Rectification Measures: Actions taken include assigning a root cause analysis (RCA) to team members Prashant Gajar and Mihir M., with a completion target of April 24. The GCS data verification was performed before the monthly data load, which indicated no issues at that time. However, the ongoing delays suggest that these measures may not be sufficient to prevent future occurrences., Client Satisfaction: The client, Kershnee, has expressed dissatisfaction due to repeated delays and unresolved issues, indicating a need for improved communication and resolution strategies., Major Challenges: Major challenges include the technical issues related to missing data and job scheduling changes, compounded by communication gaps that have led to client frustration and operational pressure., Communication Issues: Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Root Cause Analysis": "The core issues contributing to the escalation include the absence of 9 code strings in the monthly source file, changes in the UT NAM Job schedule, and the execution of the ADS Copy process multiple times, resulting in duplicates. The recurring nature of these problems indicates a lack of thorough checks and balance in the scheduling and execution processes., Rectification Measures: Actions taken include assigning a root cause analysis (RCA) to team members Prashant Gajar and Mihir M., with a completion target of April 24. The GCS data verification was performed before the monthly data load, which indicated no issues at that time. However, the ongoing delays suggest that these measures may not be sufficient to prevent future occurrences., Client Satisfaction: The client, Kershnee, has expressed dissatisfaction due to repeated delays and unresolved issues, indicating a need for improved communication and resolution strategies., Major Challenges: Major challenges include the technical issues related to missing data and job scheduling changes, compounded by communication gaps that have led to client frustration and operational pressure., Communication Issues: Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Rectification Measures": "Actions taken include assigning a root cause analysis (RCA) to team members Prashant Gajar and Mihir M., with a completion target of April 24. The GCS data verification was performed before the monthly data load, which indicated no issues at that time. However, the ongoing delays suggest that these measures may not be sufficient to prevent future occurrences., Client Satisfaction: The client, Kershnee, has expressed dissatisfaction due to repeated delays and unresolved issues, indicating a need for improved communication and resolution strategies., Major Challenges: Major challenges include the technical issues related to missing data and job scheduling changes, compounded by communication gaps that have led to client frustration and operational pressure., Communication Issues: Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Client Satisfaction": "The client, Kershnee, has expressed dissatisfaction due to repeated delays and unresolved issues, indicating a need for improved communication and resolution strategies., Major Challenges: Major challenges include the technical issues related to missing data and job scheduling changes, compounded by communication gaps that have led to client frustration and operational pressure., Communication Issues: Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Major Challenges": "Major challenges include the technical issues related to missing data and job scheduling changes, compounded by communication gaps that have led to client frustration and operational pressure., Communication Issues: Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Communication Issues": "Communication problems exist, as evidenced by the client\\s repeated feedback indicating unresolved issues and delays. There is a need for clearer communication channels and regular updates to keep clients informed., Technical Issues: Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Technical Issues": "Technical issues include the missing code strings and execution duplicates. These issues suggest a need for better data management practices and scheduling protocols to avoid repeated errors.",
+    "Delays": "Delays were primarily due to the missing code strings and multiple execution of schedules. To mitigate future delays, a more robust pre-load verification process and clearer scheduling protocols should be implemented. }, Expert Recommendations: { Preventive Measures: Implement a comprehensive checklist for data validation before monthly loads to ensure all necessary files and code strings are present. Establish a clearer schedule management system to avoid overlaps and duplicates in job executions. Regularly review and update protocols based on client feedback to improve responsiveness and accountability., Process Improvements: Enhance communication strategies to ensure that clients receive timely updates about the status of their issues. Regular training sessions for the team on data management and scheduling could help prevent similar technical issues in the future., Technical Upgrades: Consider investing in automated data management tools that can perform checks for missing code strings and duplicates automatically before executing schedules. This could significantly reduce human error and improve efficiency., Client Sentiment: The overall sentiment for the client, Kershnee, appears negative due to ongoing delays and unresolved issues. Addressing these concerns promptly and effectively is crucial for improving client relations. }, Final Sentiment: [Negative]}``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 634",
+    "Expert Recommendations": "Preventive Measures: Implement a comprehensive checklist for data validation before monthly loads to ensure all necessary files and code strings are present. Establish a clearer schedule management system to avoid overlaps and duplicates in job executions. Regularly review and update protocols based on client feedback to improve responsiveness and accountability., Process Improvements: Enhance communication strategies to ensure that clients receive timely updates about the status of their issues. Regular training sessions for the team on data management and scheduling could help prevent similar technical issues in the future., Technical Upgrades: Consider investing in automated data management tools that can perform checks for missing code strings and duplicates automatically before executing schedules. This could significantly reduce human error and improve efficiency., Client Sentiment: The overall sentiment for the client, Kershnee, appears negative due to ongoing delays and unresolved issues. Addressing these concerns promptly and effectively is crucial for improving client relations.",
+    "Overall Sentiment": "Overall Sentiment section not available",
+    "Final Sentiment": "Final Sentiment not available"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301336,
+    "filetype": "Escalations",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ed7de1e3e3c4fd1cf2d"
+  },
+  "llm_response": {
+    "Aggregated Overall Client Sentiment": "- Positive1.2",
+    "Key Sentiment and Data Trends": "- Project Code: 135301356: - Consistently high scores (5) across all parameters, particularly in satisfaction with complaint management, responsiveness, quality of deliverables, and risk management. Clients highlighted effective communication and a strong relationship with the project team. - Project Code: 135301351: - Mostly scores of 5 with a few 4s in regularity of progress reporting and risk management. Positive remarks about communication and responsiveness, with a note for proactive improvement suggestions being well received. - Project Code: 135301348: - All parameters scored 5, emphasizing excellent communication, responsiveness, and quality of deliverables. Clients praised the leadership and technical skills of the project team. - Project Code: 135301290: - Generally positive, with most scores at 4, indicating areas for improvement in project planning and risk management, but still expressing satisfaction with communication and complaint management. - Project Code: 135301345: - Uniformly high scores of 5 across communication, quality, and technical competency. Feedback highlights consistent effectiveness in managing resources and delivering as expected. - Project Code: 135301340: - High scores (5) in several areas, with comments highlighting overall satisfaction with project planning and delivery effectiveness. - Project Code: 135301336: - Mostly high scores, though some 4s in project planning and vendor coordination suggest minor areas for improvement, yet the overall sentiment remains positive.3.",
+    "Expert Advice": "- Maintain the current high standards in communication and project management practices, as these are clearly valued by the client. Address the few areas with scores of 4, particularly in project planning and risk management, by providing additional resources or support to ensure timelines and quality are consistently met. Consider periodic feedback sessions to ensure any emerging concerns are promptly addressed, thereby reinforcing the positive relationship and increasing overall client satisfaction. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 503, prompt_tokens: 10181, total_tokens: 10684, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-f2d7346b-ffb3-4ba3-b29a-0b3b976075d5-0 usage_metadata={input_tokens: 10181, output_tokens: 503, total_tokens: 10684}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301336,
+    "filetype": "CL",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ee0de1e3e3c4fd1cf2e"
+  },
+  "llm_response": {
+    "Overall Sentiment": "Positive",
+    "Categorized Sentiments": "- Positive:  - Response ID: 2109133: Respondent expresses high satisfaction with Zensar\\s management, communication, and service quality, rating all aspects positively. - Response ID: 2109131: Respondent highlights the professionalism and effective governance of Zensar, showing strong intent to continue the partnership.- Neutral:  - Response ID: 2109132: Respondent reflects moderate satisfaction with areas for improvement noted, particularly in maintaining business satisfaction. - Response ID: 2109280: Respondent rates service offerings and delivery quality as moderate, suggesting there are both strengths and weaknesses in the engagement. - Response ID: 2109130: Respondent provides a balanced view with satisfactory aspects and areas needing attention, particularly in execution quality. - Response ID: 2109279: Respondent shows mixed feelings, indicating satisfaction but also highlighting value-for-money concerns.- Negative:  - Response ID: 2109092: Respondent indicates dissatisfaction with support and innovation delivery, suggesting significant room for improvement.",
+    "Explanation": "The overall sentiment from the feedback provided is positive, with multiple respondents expressing high satisfaction levels regarding Zensar’s governance, service quality, and overall value delivered. While there are notable areas of concern, particularly in execution quality and innovation, the majority of feedback indicates a strong preference for continuing the partnership with Zensar.",
+    "Expert Advice": "To enhance customer satisfaction further, Zensar should focus on:1. Improving Execution Quality: Address concerns related to delivery quality and ensure that execution aligns with customer expectations.2. Enhancing Support Services: Strengthen support mechanisms and responsiveness to customer needs, particularly in the areas of innovation and process automation.3. Clear Communication of Changes: Regularly communicate any changes made based on customer feedback to demonstrate responsiveness and commitment to improvement.4. Recognition of High Performance: Develop a system for recognizing and rewarding high performance within the teams to boost morale and retention of talent. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 421, prompt_tokens: 24540, total_tokens: 24961, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-23190da2-f377-4500-bfa3-2f7b35787980-0 usage_metadata={input_tokens: 24540, output_tokens: 421, total_tokens: 24961}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": "",
+    "filetype": "CSAT",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344ee9de1e3e3c4fd1cf2f"
+  },
+  "llm_response": {
+    "Overall Account Sentiment": "Neutral\\n\\n",
+    "Explanation": "The sentiment across the projects is predominantly Neutral, with all projects reporting a Yellow RAG status. This indicates ongoing concerns related to project management and client dependencies that could impact timelines and quality. While there are no Negative sentiments, the lack of Positive sentiments and the presence of multiple risks suggest a cautious outlook for the overall account health.\\n\\nExpert Recommendations: To improve project performance and satisfaction, prioritize addressing the dependency on OM SMEs by ensuring timely completion of knowledge sessions. Regularly monitor SLA configurations in ServiceNow to prevent future issues and enhance project governance by clarifying roles to mitigate conflicts of interest. Implement proactive communication strategies with stakeholders to keep them informed of project progress and risks. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 144, prompt_tokens: 1895, total_tokens: 2039, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-5cce98ed-38ae-4bd8-b6ea-483c1aec95b5-0 usage_metadata={input_tokens: 1895, output_tokens: 144, total_tokens: 2039}",
+    "Expert Recommendations": "To improve project performance and satisfaction, prioritize addressing the dependency on OM SMEs by ensuring timely completion of knowledge sessions. Regularly monitor SLA configurations in ServiceNow to prevent future issues and enhance project governance by clarifying roles to mitigate conflicts of interest. Implement proactive communication strategies with stakeholders to keep them informed of project progress and risks. additional_kwargs={} response_metadata={token_usage: {completion_tokens: 144, prompt_tokens: 1895, total_tokens: 2039, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-5cce98ed-38ae-4bd8-b6ea-483c1aec95b5-0 usage_metadata={input_tokens: 1895, output_tokens: 144, total_tokens: 2039}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": 135301336,
+    "filetype": "RAYG",
+    "llmResponsetype": "CUSTOMER_OVERALLPROJECT_LEVEL_ANALYSIS"
+  }
+},
+{
+  "_id": {
+    "$oid": "67344efcde1e3e3c4fd1cf30"
+  },
+  "llm_response": {
+    "Final Sentiment": "Positive",
+    "Sentiment Calculation Details": "- File 1 Sentiment: Neutral - Weight: 0.25 - Weighted Score: 0 - File 2 Sentiment: Positive - Weight: 0.25 - Weighted Score: 0.25 - File 3 Sentiment: Positive - Weight: 0.2 - Weighted Score: 0.2 - File 4 Sentiment: Negative - Weight: 0.3 - Weighted Score: -0.3",
+    "Final Sentiment Score": "- Total Score: 0.15",
+    "Explanation": ":- Feedback Patterns: The feedback from File 2 and File 3 indicates a strong positive sentiment, highlighting high levels of client satisfaction and effective communication. In contrast, File 4 presents a negative sentiment due to issues with delays and communications.- Key Influencing Parameters: The positive responses regarding communication and management in Files 2 and 3 significantly influenced the overall sentiment, outweighing the negative feedback from File 4.- Contradictions and Resolution: While File 4 presented a negative sentiment, it did not outweigh the cumulative positive sentiments from Files 2 and 3, leading to the final classification as positive.- Summary: The final sentiment is classified as Positive, driven by high client satisfaction in multiple projects, despite some operational challenges highlighted in the escalation file.Therefore, the output is:```Final Sentiment: PositiveSentiment Calculation Details: File 1 Sentiment: Neutral Weight: 0.25 Weighted Score: 0 File 2 Sentiment: Positive Weight: 0.25 Weighted Score: 0.25 File 3 Sentiment: Positive Weight: 0.2 Weighted Score: 0.2 File 4 Sentiment: Negative Weight: 0.3 Weighted Score: -0.3Final Sentiment Score Calculation: Total Score: 0.15Explanation: Feedback Patterns: The feedback from File 2 and File 3 indicates a strong positive sentiment, highlighting high levels of client satisfaction and effective communication. In contrast, File 4 presents a negative sentiment due to issues with delays and communications. Key Influencing Parameters: The positive responses regarding communication and management in Files 2 and 3 significantly influenced the overall sentiment, outweighing the negative feedback from File 4. Contradictions and Resolution: While File 4 presented a negative sentiment, it did not outweigh the cumulative positive sentiments from Files 2 and 3, leading to the final classification as positive. Summary: The final sentiment is classified as Positive, driven by high client satisfaction in multiple projects, despite some operational challenges highlighted in the escalation file.``` additional_kwargs={} response_metadata={token_usage: {completion_tokens: 1023, prompt_tokens: 7287, total_tokens: 8310, completion_tokens_details: None}, model_name: gpt-4o-mini, system_fingerprint: fp_d54531d9eb, prompt_filter_results: [{prompt_index: 0, content_filter_results: {hate: {filtered: False, severity: safe}, jailbreak: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}}], finish_reason: stop, logprobs: None, content_filter_results: {hate: {filtered: False, severity: safe}, protected_material_code: {filtered: False, detected: False}, protected_material_text: {filtered: False, detected: False}, self_harm: {filtered: False, severity: safe}, sexual: {filtered: False, severity: safe}, violence: {filtered: False, severity: safe}}} id=run-10f190ac-a357-4207-b76b-8accacea6c64-0 usage_metadata={input_tokens: 7287, output_tokens: 1023, total_tokens: 8310}"
+  },
+  "metadata": {
+    "CustomerName": "OLD MUTUAL LIFE ASSURANCE COMPANY LIMITED",
+    "ProjectCode": "",
+    "filetype": "OVERALL",
+    "llmResponsetype": "CUSTOMER_OVERALLCOMBINED_ANALYSIS"
+  }
+}]
